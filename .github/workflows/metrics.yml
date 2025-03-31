@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  schedule: # Schedule the workflow (once a day)
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories
+          config_timezone: America/Los_Angeles  # Replace with your timezone
