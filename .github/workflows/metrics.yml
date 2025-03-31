@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: # Schedule the workflow (once a day)
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *" # Daily run
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -14,3 +14,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           config_timezone: America/Los_Angeles  # Replace with your timezone
+          
+          # ✅ Achievements Plugin
+          plugin_achievements: yes
+          plugin_achievements_display: detailed  # Show detailed achievements
+          plugin_achievements_threshold: X  # Set the minimum threshold (1-100)
+          plugin_achievements_secrets: yes  # Display secrets achievements
+          plugin_achievements_ignored: "stars, followers"  # Ignore specific achievements (optional)
