@@ -12,9 +12,11 @@
                  ▀█   █▀    ███    █▀     ▄████▀     ███    █▀      ███    █▀   ▀█   █▀         ████████▀    ██████████ 
                                                                                                         
 ```
-
-<h3 align="left">I'm a Mechanical Engineering student from the Bay Area</h2>
-
+### About Me
+- Mechanical Engineering student studying at the [University of California, Los Angeles](https://www.ucla.edu/)
+- Passion for robotics and industrial design
+- Hobbies: Olympic weightlifting, wrestling, music
+  
 ###
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
