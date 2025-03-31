@@ -20,7 +20,7 @@
 ### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nzge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en&layout=compact" alt="nzge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="nzge" /></p>
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=nzge&theme=dark&hide_border=false" alt="nzge" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=nzge&theme=dark&hide_border=false&card_width=100" alt="nzge" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nzge&limit=5&theme=dark&hide&combine_all_yearly_contributions=true)
