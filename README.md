@@ -31,5 +31,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzge&show_icons=true&locale=en&layout=compact" alt="nzge" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzge&show_icons=true&locale=en" alt="nzge" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzge&" alt="nzge" /></p>
 
 
