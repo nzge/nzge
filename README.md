@@ -15,7 +15,6 @@
 
 <h3 align="left">I'm a Mechanical Engineering student from the Bay Area</h2>
 
-
 ###
 
 <div align="center">
@@ -26,12 +25,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/nzge/nzge/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
