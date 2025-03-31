@@ -44,6 +44,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=nzge&theme=oldie&no-frame=true&no-bg=true)
 
+![Achievements](https://github.com/nzge/nzge/blob/main/metrics-achievements.svg)
+
+
 ###
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naysun_g) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nzge) 
