@@ -42,7 +42,7 @@
 
 ###
 
-![](https://github-profile-trophy.vercel.app/?username=nzge&theme=default&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nzge&theme=oldie&no-frame=true&no-bg=true&margin-w=3&margin-h=2)
 
 ###
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naysun_g) 
