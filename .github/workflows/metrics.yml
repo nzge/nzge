@@ -31,7 +31,6 @@ jobs:
           template: classic
           base: activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
-          config_presets: "@lunar-red"
           config_display: columns
 
           plugin_achievements: yes
