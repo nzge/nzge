@@ -13,7 +13,7 @@
                                                                                                         
 ```
 
-<h2 align="left">I'm a Mechanical Engineering student from the Bay Area</h2>
+<h3 align="left">I'm a Mechanical Engineering student from the Bay Area</h2>
 
 
 ###
