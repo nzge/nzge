@@ -29,5 +29,6 @@ jobs:
           # Options
           user: nzge
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
+          config_presets: "@lunar-red"
