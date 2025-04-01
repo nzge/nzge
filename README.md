@@ -40,7 +40,7 @@
 <br clear="both">
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics" width="50%" height="300px">
+  <img src="HtmlToSvg.svg" alt="Metrics" width="100%" height="300px">
 </picture>
 
 <img src="https://raw.githubusercontent.com/nzge/nzge/output/snake.svg" alt="Snake animation" />
