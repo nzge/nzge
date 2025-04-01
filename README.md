@@ -45,11 +45,6 @@
 
 <img src="https://raw.githubusercontent.com/nzge/nzge/output/snake.svg" alt="Snake animation" />
 
-<picture>
-  <img src="/HtmlToSvg.svg" alt="Metrics" width="50%" height="300px">
-</picture>
-
-
 ###
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naysun_g) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nzge) 
