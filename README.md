@@ -43,9 +43,6 @@
   <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
-![Metrics](https://metrics.lecoq.io/nzge?template=classic&base.header=0&achievements=1&repositories=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FLos_Angeles&config.display=columns)
-
-
 <img src="https://raw.githubusercontent.com/nzge/nzge/output/snake.svg" alt="Snake animation" />
 
 ###
