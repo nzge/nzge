@@ -48,13 +48,6 @@
 <img src="https://raw.githubusercontent.com/nzge/nzge/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![](https://github-profile-trophy.vercel.app/?username=nzge&theme=oldie&no-frame=true&no-bg=true)
-
-![Achievements](https://github.com/nzge/nzge/blob/main/metrics-achievements.svg)
-
-
-###
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naysun_g) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nzge) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://linkedin.com/in/nzge) 
