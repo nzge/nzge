@@ -32,7 +32,6 @@ jobs:
           base: activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           config_display: columns
-
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -53,3 +52,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          config_order: base, introduction, isocalendar, languages, stars, repositories achievements
