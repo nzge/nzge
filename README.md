@@ -23,7 +23,6 @@
 ### About Me
 - Mechanical Engineering student studying at the [University of California, Los Angeles](https://www.ucla.edu/)
 - Passion for robotics and industrial design
-- Hobbies: Olympic weightlifting, wrestling, music
 
 ###
 
