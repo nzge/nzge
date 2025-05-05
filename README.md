@@ -44,7 +44,7 @@
 
 <img src="https://raw.githubusercontent.com/nzge/nzge/output/snake.svg" alt="Snake animation" />
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nzge)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nzge){:target="_blank"}
 
 ###
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naysun_g) 
