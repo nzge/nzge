@@ -1,3 +1,9 @@
+### About Me
+- Mechanical Engineering student studying at the [University of California, Los Angeles](https://www.ucla.edu/)
+- Passion for robotics and industrial design
+
+###
+
 <!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
@@ -20,12 +26,6 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=plastic&logo=platformio&logoColor=%23f5822a) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) 
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) 
-
-### About Me
-- Mechanical Engineering student studying at the [University of California, Los Angeles](https://www.ucla.edu/)
-- Passion for robotics and industrial design
-
-###
 
 ---
 
